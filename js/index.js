@@ -46,6 +46,16 @@
 // console.log(max);
 // console.log(min);
 
+//7
+// let num = 12345;
+// let res = 0;
+
+// for (let i = num; i > 0; i = Math.floor(i / 10)) {
+//   res = res * 10 + (i % 10);
+// }
+
+// console.log(res);
+
 //9
 
 // for (let i = 1; i <= 50; i++) {
